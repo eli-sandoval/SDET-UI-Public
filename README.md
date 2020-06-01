@@ -12,7 +12,7 @@ As a Customer we want to see if the second Iphone related ad from the second res
 2.  Commit each step of your process so we can follow your thought process.
 
 ## Technologies
-You can use any language of your choice, preferably JAVA or JS but is not restrictive, avoid the usage of "canned tools" such as Selenium IDE (not to be mistaken with Selenium WebDriver, you can use Selenium WebDriver), QTP, etc.
+You can use any language of your choice, preferably JAVA but is not restrictive, avoid the usage of "canned tools" such as Selenium IDE (not to be mistaken with Selenium WebDriver, you can use Selenium WebDriver), QTP, etc.
 
 ## Time Spent
 You need to fully complete the challenge. We suggest not to spend more than 5 days total.  Please make commits as often as possible so we can see the time you spent and please do not make one commit.  We will evaluate the code and time spent.
