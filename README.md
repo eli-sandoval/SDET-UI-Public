@@ -5,7 +5,7 @@ We would like you complete the following code test in order to evaluate your aut
 
 ## Feature to Test
 
-As a Customer we want to see if the second Iphone related ad from the second results page from www.aliexpress.com has at least 1 item to be bought.
+As a Customer we want to see if the second ad from the second results page when searching for "Iphone" on www.aliexpress.com has at least 1 item to be bought.
 
 ## Show your work
 1.  Create a Public repository
