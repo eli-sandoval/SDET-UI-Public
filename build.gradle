@@ -1,0 +1,25 @@
+plugins {
+    id 'java'
+}
+
+group 'org.SDET-UI'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+sourceSets {
+    main {
+        java {
+            srcDirs = ['src']
+        }
+    }
+}
+dependencies {
+    compile group: 'org.testng', name: 'testng', version: '7.3.0'
+}
+
+test {
+    useTestNG()
+    scanForTestClasses = false
+}
