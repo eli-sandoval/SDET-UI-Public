@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Results Page Tests">
+
+	<test name="First draft">
+		<classes>
+			<class name="main.java.tests.ResultsPageTests">
+				<methods>
+					<include name="firstDraftTest"/>
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+</suite>
