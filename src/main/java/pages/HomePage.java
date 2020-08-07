@@ -31,7 +31,7 @@ public class HomePage extends BasePage {
 	}
 
 	public SearchResultsPage search(String searchTerm) {
-		checkNotNull(searchTerm, "The loan amount cannot be null");
+		checkNotNull(searchTerm, "The searchTerm cannot be null");
 		log.info("Entering searchTerm={}", searchTerm);
 		//Validating element is visible before performing operations on it.
 		waitUntil(ExpectedConditions.visibilityOf(searchTextbox));

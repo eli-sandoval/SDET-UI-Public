@@ -5,7 +5,7 @@
 		<classes>
 			<class name="main.java.tests.ResultsPageTests">
 				<methods>
-					<include name="firstDraftTest"/>
+					<include name="checkSecondProductQuantity"/>
 				</methods>
 			</class>
 		</classes>
