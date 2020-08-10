@@ -10,7 +10,7 @@ public class ExecutionContext {
 	private WebDriver driver;
 
 	private ExecutionContext() {
-		System.setProperty("webdriver.chrome.driver", "/Users/eli.sandoval/Downloads/chromedriver");
+		System.setProperty("webdriver.chrome.driver", System.getProperty("path.to.chromedriver"));
 		this.driver = new ChromeDriver();
 	}
 
