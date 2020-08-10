@@ -1,7 +1,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Results Page Tests">
 
-	<test name="First draft">
+	<test name="Check second product quantity">
 		<classes>
 			<class name="main.java.tests.ResultsPageTests">
 				<methods>
