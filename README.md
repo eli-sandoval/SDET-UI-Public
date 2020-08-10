@@ -1,5 +1,11 @@
 # SDET--SG
 
+## How to run
+In order to run the tests, the following environment variables need to be set:
+-Dtimeout = 15 (15 is the timeout with which I have worked)
+-Dpath.to.chromedriver = The path to the chromedriver executable with which the tests will run
+After that, you can simply right click on the results_page_tests.xml file and run as a TestNG class.
+
 ## Objective
 We would like you complete the following code test in order to evaluate your automation skills.  Please place your code in a public Github repository so we can review it.
 
