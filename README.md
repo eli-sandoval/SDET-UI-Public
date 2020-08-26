@@ -1,4 +1,4 @@
-# SDET--SG
+# Eli Sandoval
 
 ## How to run
 In order to run the tests, the following environment variables need to be set:
